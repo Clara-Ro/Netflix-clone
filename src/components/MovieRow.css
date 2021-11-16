@@ -1,0 +1,20 @@
+.movieRow {
+   margin-bottom: 30px; 
+}
+
+.movieRow h2{
+    margin: 0px 0px 0px 30px;
+}
+
+.movieRow--listarea{
+    overflow-x: hidden;
+}
+
+.movieRow--list{
+    width: 999999;
+}
+
+.movieRow--item{
+    display: inline-block;
+    width: 150px;
+}
